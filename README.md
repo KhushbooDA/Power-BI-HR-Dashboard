@@ -32,7 +32,7 @@ Designed an interactive Power BI dashboard to analyze employee attrition trends 
 # Repository Structure: 
 •	Data: https://github.com/KhushbooDA/Power-BI-HR-Dashboard/blob/main/hrdata.xlsx"
 
-•	Dashboard: 
+•	Dashboard: https://github.com/KhushbooDA/Power-BI-HR-Dashboard/blob/main/hr.pbit
 
 •	Pdf/Image: https://github.com/KhushbooDA/Power-BI-HR-Dashboard/blob/main/HR%20Dashboard.pdf
 
