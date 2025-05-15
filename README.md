@@ -18,10 +18,15 @@ Designed an interactive Power BI dashboard to analyze employee attrition trends 
 
 # Project Highlights	
 Metric	               Value
+
 Total Employees	       1,470
+
 Attrition  	           237 employees 
+
 Attrition Rate         16.12%
+
 Active Employees	     1,233
+
 Average Age	           37 years
 
 # Repository Structure: 
