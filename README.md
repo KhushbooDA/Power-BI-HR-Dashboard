@@ -10,7 +10,7 @@ Designed an interactive Power BI dashboard to analyze employee attrition trends 
 
 # Why HR Analytics Dashboard Stands Out:
 
-•	Multi-Dimensional Insights: Analyzes attrition by department, education field, age group, and gender, highlighting high-attrition department like R&D and the 25–34 age group.
+•	Multi-Dimensional Insights: Analyzes attrition by department, education field, age group, and gender, highlighting high-attrition risk area like R&D and the 25–34 age group.
 
 •	Effective Visuals: Clear visuals charts including pie, bar and donut enable quick interpretation and informed decision-making.
 
