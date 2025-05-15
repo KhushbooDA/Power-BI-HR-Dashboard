@@ -17,7 +17,7 @@ Designed an interactive Power BI dashboard to analyze employee attrition trends 
 •	Actionable Intelligence: Supports strategic decisions in talent retention, workforce planning, and diversity management.
 
 # Project Highlights	
- Metric	                 Value
+ Metric	                      Value
 
  Total Employees	       1,470
 
