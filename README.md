@@ -30,8 +30,10 @@ Designed an interactive Power BI dashboard to analyze employee attrition trends 
  Average Age	           37 years
 
 # Repository Structure: 
-•	Data: <a href="https://github.com/KhushbooDA/Power-BI-HR-Dashboard/blob/main/hrdata.xlsx"</a>
+•	Data: https://github.com/KhushbooDA/Power-BI-HR-Dashboard/blob/main/hrdata.xlsx"
+
 •	Dashboard: Power BI file(.pbix) of this project.
+
 •	Pdf/Image: Contains pdf of dashboard for easy preview.
 
 
